@@ -1,0 +1,153 @@
+body {
+    background-color: #d1d1d1;
+}
+
+div {
+    margin: 0 auto;
+    width: 600px;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.table1 th, .table1 td {
+    border: 2px solid #000;
+    text-align: center;
+    padding: 5px;
+}
+
+.table1 td:nth-child(1) {
+    text-align: left;
+}
+
+.table1 {
+    border-collapse: collapse;
+}
+
+
+.table2 {
+    background-color: #f9f9f9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    border-collapse: collapse;
+    border: 5px solid #f9f9f9;    
+}
+
+.table2 th {
+    width: 150px;
+    text-align: left;
+    border-bottom: 1px solid #b6b3b3;
+}
+
+.table2 th, .table2 td {
+    padding:10px;
+}
+
+
+.section1 {
+    background-color: #f9f9f9;
+    width: 510px;
+    padding: 10px;
+
+}
+.table3 {
+    background-color: #f9f9f9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    border-collapse: collapse;
+}
+
+.table3 th, .table3 td {
+    width: 150px;
+    text-align: left;
+    border-bottom: 1px solid #b6b3b3;
+}
+
+.table3 th, .table3 td {
+    padding:10px;
+}
+
+.section2 {
+    border: 1px solid #b6b3b3;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 5px;
+    width: 500px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f9f9;
+    position: relative;  
+    
+}
+
+.table4 th, .table4 td {
+    text-align: left;
+    padding: 10px;
+    font-size: 11px;
+    border-bottom: 1px solid #b6b3b3;
+}
+
+.table4 td:first-child {
+    color: #ff3333;
+}
+
+.go_to_busket {
+    background-color: #f9f9f9;
+    border:none;
+    color: #e9383e;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+
+.table4 {
+    border-collapse: collapse;
+    border-bottom: 2px solid #f9f9f9;
+    width: 100%;
+}
+
+.plus, .minus, .delete {
+    background-color: #e7242a;
+    font-size: 10px;
+    border: none;
+    color: #fff;
+    height: 20px;
+    text-align: center;
+}
+
+.delete {
+    background-color: #dc4e45;
+    font-size: 8px;
+}
+
+p {
+    text-align: right;
+    font-size: 13px;
+    line-height: 20px;
+    border-right: 4px solid #e1dfdf;
+    padding: 0px 5px 0px 0px;      
+}
+
+span {
+    color: #8e92a5;
+}
+
+.close {
+    width:20px;
+    border-radius:50%;
+    color:#fff;
+    line-height:20px;
+    font-size: 13px;
+    text-align:center;
+    background:#000;
+    border: 1px solid #fff;
+    box-shadow:  0 0 10px rgba(0,0,0,0.5);
+    text-decoration: none;
+    position: absolute;
+    top:-11px;
+    right:-11px;
+}
+
+
+  
+
